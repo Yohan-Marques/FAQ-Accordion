@@ -19,3 +19,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+## ✏️ Dúvidas 
+
+- Para percorrer as divs foi usado o... `tabindex="0" - Usando o seu valor zero em todas as divs colocado` 
+
+Exemplo:
+
+`<div tabindex="0"> div </div>`
+
+Fazendo com que ao pressionar o `TAB` seja colocado uma borda de destaque em cada div que recebe o `Focus` do `Tabindex="0"`
